@@ -242,7 +242,7 @@ export default class ControlPanel extends React.Component {
           <Button 
             size="large" 
             className={this.props.classes.buttonsTop}
-            href='https://fujitsu.github.io/controlled-vocabulary-designer/'
+            href='https://m-yasutaka.github.io/test20220516/'
             target="_blank"
             rel="noopener"
           > 
