@@ -193,6 +193,18 @@ body, html {font-size: 14px;}
     z-index: 10;
 }
 
+.content1-2 h1 {
+    text-align: left;
+}
+
+.content1-2 h2 {
+    text-align: left;
+}
+
+.content1-2 p {
+    text-align: left;
+}
+
 .content1-2 ul {
     font-size: 18px;
     margin: 0px;
