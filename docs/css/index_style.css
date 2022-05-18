@@ -211,6 +211,10 @@ body, html {font-size: 14px;}
     text-align: left;
 }
 
+.span {
+    margin-left: 1rem;
+  }
+
 .bgimg-2 {}
 
 .bgimg-3 {}
