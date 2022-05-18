@@ -193,6 +193,11 @@ body, html {font-size: 14px;}
     z-index: 10;
 }
 
+.content1-2 ul {
+    font-size: 18px;
+    margin-top: 0px;
+}
+
 .bgimg-2 {}
 
 .bgimg-3 {}
